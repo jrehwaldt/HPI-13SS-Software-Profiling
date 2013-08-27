@@ -3,5 +3,4 @@
 /.texlipse
 *.pdn
 *.synctex.gz
-
-/*.acn
+*.acn
